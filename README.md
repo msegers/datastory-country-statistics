@@ -47,6 +47,7 @@ I would say I din't want to skip anything, but I focused on a working applicatio
 - Enhance the Charts, currently it's not obvious what the axises represent, they could use labels at least.
 - Testing, while I don't see a lot of test cases that are very worth it right now except perhaps checking if the graphs render the expected data. I did not test if a production build works. This means I also didn't do proper type checking etc. which is build into next.js.
 - Setup linting/formatting better I reinstalled my desktop recently, I didn't have node installed this morning. I had to configure typescript in NeoVim. So I could probably improve a little bit to have my IDE format the project slightly better. Don't get upset if you see a mix of single and double quotes ;-).
+- Also the default generated next.js styles are still in there
 
 > Note: In a real world scenario I'd likely spend more time doing some research on what to use and where, of course a lot would already have been decided or be more straightforward by using tooling which is used in other projects.
 
